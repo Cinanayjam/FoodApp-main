@@ -1,0 +1,14 @@
+@media screen and (min-width: 1200px) {   
+}
+
+.menu-burger {
+    display: none;
+}
+
+.menu-desktop {
+    display: flex;
+    justify-content: space-between;
+}
+    
+
+    
